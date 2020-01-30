@@ -17,7 +17,9 @@ Generate leads
     3 strategies
         1. Open Houses / listings
             Every weekend saturday and sunday schedule
+                4 hours per day
             Pre knock neighborhood to invite to openhouse
+                4 hours per day prior - Friday / Saturday
             Yard signs
             emails
             Website
@@ -45,6 +47,32 @@ Buyer appointments = 3.3  ~4
 Seller appointments = 3.6 ~4
 
 
+Generic schedule
+    Monday 
+        Schedule mailings to database
+        Broker based training
+        30 min unscheduled
+        Walking floor
+        Practice Script
+    Tuesday
+        Finances + planning
+        Non- Broker based training
+        30 min unscheduled
+        Meet with buyers / Sellers
+        Practice Scripts
+    Wednesday
+        Broker based training
+        Schedule open Houses
+        Meet with Buyers / Sellers
+        Put together statistics / newsletter
+        Practice Scripts
+    Thursday
+        Non broker based training
+        Train with mentor / agent
+        Practice Scripts
+    Friday
+        Prospecting / door knocking
+    Saturday Open house
 
 
 
