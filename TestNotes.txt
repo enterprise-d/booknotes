@@ -1,0 +1,27 @@
+USPAP is a vital part of the modern real estate appraisal practice. What does USPAP stand for?
+    Uniform Standards of Professional Appraisal Practice 
+Effect value
+    Utility - the function of property
+    Scarcity - market demand
+    Transferability - ease of transfer
+*Sale Comparison approach (1 of 3 main ones)
+    Compares a property to other properties, similar, that have recently sold
+    *Trick question, we only adjust comparibles, not the subject property
+    Elements in order (FT-CC-MLP)
+        Financing
+        terms
+        cash equivalency
+        condition of Sale
+        market conditions at contract and closing
+        location
+        physical characteristics
+Cost approach to value
+    cost to reproduce property with old materials, exactly as it was
+Investment value
+    looks at rate of return
+
+Types of depreciation
+    physical = age or damage
+    functional - bathroom behind bedroom
+    incurable = odd floor plan, not easy to fix
+    external = undesirable influence off site, contruction
