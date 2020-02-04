@@ -25,3 +25,62 @@ Types of depreciation
     functional - bathroom behind bedroom
     incurable = odd floor plan, not easy to fix
     external = undesirable influence off site, contruction
+
+Authorized Relationships, Dueties and Discloses
+    Statutory law - laws on record
+    Common law - proceedures set by precedents
+    General agents - property managers
+    Special agents - limited authority
+    Dual agencies are illegal, transaction brokers is default
+    Agency is determined by contract, not by compensation
+    No brokerage is when a buyer doesn't want representation, still owe
+        Deal honestly
+        Account for funds
+        Disclose 
+    Associate to broker
+        complete 72 hours FREC course
+        complete 60 frec post licensing course
+
+
+
+Land descriptions
+        Metes and bounds-compass heading
+        Lot and block-plat referrences
+        Government survey system
+            *Government survey system
+                Divides land into townships
+                    townships divided into 36 mile/640 acres (6x6 miles)
+                    North south = meridian
+                    east west = baseline
+
+    
+
+Measuring Elevations
+    Datum - vertical hight such as 243 above sea level
+
+Easements
+    Gross - utilities
+    necessity - land locked, can't get to it 
+    prescription have been doing something for a long time, 
+
+Sales associate qualifications for license
+    63 hours course work
+    45 hours post licensing coursework
+
+Water Rights
+    Riparian Rights
+        Land abuts river (remember r for r)
+    *Littoral Rights
+        land borders lake (remember l for lake (or ocean))
+    Accretion
+        land build up from Water
+    alluvion
+        new deposits of land due to accreetion (think mouth of river)
+    Accession
+        increase of land
+    erosion
+        loss of land
+    Avulsion
+        rapid loss of land
+    Reliction
+        gradual receeding of Water
