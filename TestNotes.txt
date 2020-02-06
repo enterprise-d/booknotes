@@ -112,5 +112,20 @@ Tenancy as ownership
     Entireties-spouses + survivorship
 Leasehold Estate = renting
     sufferance - doesn't leave
-    unknown lease time
+    at will unknown lease time
     years fixed lease time
+No brokerage relationship must be disclosed before and agreed to before showing a property.
+Option contracts are unilateral- buyer doesn't have to buy
+    option contracts must be in writing
+Title
+    concept, not a document
+    Proof includes insurance and updated
+    Seisin
+        grantor promises he owns the title.
+    Title insurance helps verify it's free of encumberancees
+Lien Priority
+    1. Government always first, all states
+    2. Mechanics liens, then all others in order of recording
+    3. Judgement liens, date of recording
+Freddie Mac and Fannie are secondary markets
+no license required if leaasing for less than 1 years
