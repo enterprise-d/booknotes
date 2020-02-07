@@ -1,36 +1,49 @@
 USPAP is a vital part of the modern real estate appraisal practice. What does USPAP stand for?
     Uniform Standards of Professional Appraisal Practice 
-Effect value
-    Utility - the function of property
-    Scarcity - market demand
-    Transferability - ease of transfer
-*Sale Comparison approach (1 of 3 main ones)
-    Compares a property to other properties, similar, that have recently sold
-    *Trick question, we only adjust comparibles, not the subject property
-    Elements in order (FT-CC-MLP)
-        Financing
-        terms
-        cash equivalency
-        condition of Sale
-        market conditions at contract and closing
-        location
-        physical characteristics
-Cost approach to value
-    cost to reproduce property with old materials, exactly as it was
-Investment value
-    looks at rate of return
+What are the economic factors that effect value
+    Utility - 
+        the function of property
+    Scarcity -
+         market demand
+    Transferability 
+        - ease of transfer
+What are the 3 main approaches to value?
+    *Sale Comparison approach (1 of 3 main ones)
+        Compares a property to other properties, similar, that have recently sold
+        *Trick question, we only adjust comparibles, not the subject property
+        Elements in order
+         (FT-CC-MLP)
+            Financing
+            terms
+            cash equivalency
+            condition of Sale
+            market conditions at contract and closing
+            location
+            physical characteristics
+    Cost approach to value
+        cost to reproduce property with old materials, exactly as it was
+    Investment value
+        looks at rate of return
 
 Types of depreciation
-    physical = age or damage
-    functional - bathroom behind bedroom
-    incurable = odd floor plan, not easy to fix
-    external = undesirable influence off site, contruction
+    physical = 
+        age or damage
+    functional -
+         bathroom behind bedroom
+    incurable = 
+        odd floor plan, not easy to fix
+    external = 
+        undesirable influence off site, contruction
 
 Authorized Relationships, Dueties and Discloses
-    Statutory law - laws on record
-    Common law - proceedures set by precedents
-    General agents - property managers
-    Special agents - limited authority
+    Statutory law 
+        - laws on record
+    Common law 
+     - proceedures set by precedents
+    General agents
+     - property managers
+    Special agents
+     - limited authority
     Dual agencies are illegal, transaction brokers is default
     Agency is determined by contract, not by compensation
     No brokerage is when a buyer doesn't want representation, still owe
@@ -43,7 +56,7 @@ Authorized Relationships, Dueties and Discloses
 
 
 
-Land descriptions
+3 types Land descriptions
         Metes and bounds-compass heading
         Lot and block-plat referrences
         Government survey system
@@ -53,7 +66,6 @@ Land descriptions
                     North south = meridian
                     east west = baseline
 
-    
 
 Measuring Elevations
     Datum - vertical hight such as 243 above sea level
@@ -84,6 +96,7 @@ Water Rights
         rapid loss of land
     Reliction
         gradual receeding of Water
+
 Caveat emptor = sellers can't hide flaws, but don't have to point them out.
 
 
