@@ -62,7 +62,7 @@ Authorized Relationships, Dueties and Discloses
         Government survey system
             *Government survey system
                 Divides land into townships
-                    townships divided into 36 mile/640 acres (6x6 miles)
+                    townships divided into 36 mile/640 acres per mile (6x6 miles)
                     North south = meridian
                     east west = baseline
 
@@ -142,3 +142,15 @@ Lien Priority
     3. Judgement liens, date of recording
 Freddie Mac and Fannie are secondary markets
 no license required if leaasing for less than 1 years
+
+Percentage lease usually done by RETAIL lease to offset lower rent by paying a PERCENTAGE of income
+Accured expenses are seller debits. like unpaid real estate taxes
+Farmer Mac is for farmers lol.
+DBPR issues cease and desist for unlicensed people
+Deed recorded to give constructive notice to the public
+Constructive evicition forced to vacate because landlord failed to repair
+No pets vs disability = disability wins
+Capital gains is less than tax rate. 33% would pay 15% capital gains
+Easement appurtenant - encumbrance on dominant party
+Keeping earnest money is accepting liquidated damages
+VA loans require resident to live in property
